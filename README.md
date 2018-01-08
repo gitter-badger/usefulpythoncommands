@@ -6,6 +6,10 @@ usefulpythoncommands is a list of useful python commands
     ```python
     raise Systemexit
     ```
+* Variable string in one line
+    ```python
+    s = ("" if iterationcount == 1 else "s")
+    ```
 
 ### Pip:
 * List all packages
