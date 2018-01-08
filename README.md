@@ -10,7 +10,11 @@ usefulpythoncommands is a list of useful python commands
     ```python
     s = ("" if iterationcount == 1 else "s")
     ```
-
+* Combining multiple strings
+    ```python
+    test = ['I', 'Like', 'Python', 'automation']
+    print ''.join(test)
+    ```
 ### Pip:
 * List all packages
     ```CLI
