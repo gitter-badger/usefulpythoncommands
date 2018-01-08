@@ -1,11 +1,11 @@
 # usefulpythoncommands
-## In Python:
+## Python Code:
 * End script at this point        
 ```python
         raise Systemexit
 ```
 
-## In Pip:
+## Pip:
 * List all packages
 ```CLI
         pip freeze
