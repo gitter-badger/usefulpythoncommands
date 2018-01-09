@@ -20,7 +20,15 @@ usefulpythoncommands is a list of useful python commands
     import sys
     sys.setrecursionlimit(1001)
     ```
-    
+* List comprehensions for multidimensional arrays
+    ```python
+    [[a, b, c] for a in range(x + 1)
+               for b in range(y + 1)
+               for c in range(z + 1)
+               if a + b + c != n]
+    ```
+   
+
 ### Pip:
 * List all packages
     ```CLI
