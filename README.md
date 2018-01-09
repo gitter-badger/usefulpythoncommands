@@ -1,4 +1,6 @@
 ## usefulpythoncommands
+
+[![Join the chat at https://gitter.im/usefulpythoncommands/Lobby](https://badges.gitter.im/usefulpythoncommands/Lobby.svg)](https://gitter.im/usefulpythoncommands/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 usefulpythoncommands is a list of useful python commands
 
 ### Python Code:
